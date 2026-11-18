@@ -1,0 +1,162 @@
+[
+{
+    "question" : "Identify the VERB in the following sentence: \"The programmer quickly compiled the clean code.\"",
+    "a": "programmer",
+    "b": "quickly",
+    "c": "compiled",
+    "d": "clean",
+    "answer": "c"
+},
+{
+    "question" : "Which word in the sentence is an ADJECTIVE? \"A heavy storm damaged the old bridge.\"",
+    "a": "storm",
+    "b": "damaged",
+    "c": "heavy",
+    "d": "bridge",
+    "answer": "c"
+},
+{
+    "question" : "Identify the ADVERB in the sentence: \"She speaks English fluently during international meetings.\"",
+    "a": "speaks",
+    "b": "English",
+    "c": "fluently",
+    "d": "meetings",
+    "answer": "c"
+},
+{
+    "question" : "Which of the following words is a NOUN?",
+    "a": "accelerate",
+    "b": "velocity",
+    "c": "rapidly",
+    "d": "swift",
+    "answer": "b"
+},
+{
+    "question" : "What part of speech is the capitalized word? \"The ENGINE roared loudly before the race began.\"",
+    "a": "Noun",
+    "b": "Verb",
+    "c": "Adjective",
+    "d": "Adverb",
+    "answer": "a"
+},
+{
+    "question" : "What part of speech is the capitalized word? \"They ANALYZED the complex data thoroughly.\"",
+    "a": "Noun",
+    "b": "Verb",
+    "c": "Adjective",
+    "d": "Adverb",
+    "answer": "b"
+},
+{
+    "question" : "Choose the correct ADJECTIVE to complete the sentence: \"The mountain road is extremely _______ during the rainy season.\"",
+    "a": "danger",
+    "b": "dangerously",
+    "c": "dangerous",
+    "d": "endanger",
+    "answer": "c"
+},
+{
+    "question" : "Choose the correct ADVERB to complete the sentence: \"He adjusted the suspension _______ to prevent oversteer.\"",
+    "a": "careful",
+    "b": "carefully",
+    "c": "care",
+    "d": "caring",
+    "answer": "b"
+},
+{
+    "question" : "Identify the NOUN in the sentence: \"Honesty remains the best policy in any relationship.\"",
+    "a": "Honesty",
+    "b": "remains",
+    "c": "best",
+    "d": "any",
+    "answer": "a"
+},
+{
+    "question" : "Which word functions as a VERB in this sentence? \"Water freezes at zero degrees Celsius.\"",
+    "a": "Water",
+    "b": "freezes",
+    "c": "zero",
+    "d": "degrees",
+    "answer": "b"
+},
+{
+    "question" : "What part of speech is the capitalized word? \"She wore a VIBRANT jacket to the concert.\"",
+    "a": "Noun",
+    "b": "Verb",
+    "c": "Adjective",
+    "d": "Adverb",
+    "answer": "c"
+},
+{
+    "question" : "Identify the ADVERB modifying an adjective in this sentence: \"The test was surprisingly easy for most students.\"",
+    "a": "test",
+    "b": "was",
+    "c": "surprisingly",
+    "d": "easy",
+    "answer": "c"
+},
+{
+    "question" : "Which of the following is an ABSTRACT NOUN?",
+    "a": "keyboard",
+    "b": "courage",
+    "c": "bicycle",
+    "d": "mountain",
+    "answer": "b"
+},
+{
+    "question" : "Choose the correct VERB form to complete the sentence: \"The mechanic _______ the tire pressure before every session.\"",
+    "a": "inspection",
+    "b": "inspector",
+    "c": "inspects",
+    "d": "inspectable",
+    "answer": "c"
+},
+{
+    "question" : "What part of speech is the capitalized word? \"He arrived LATE to the morning briefing.\"",
+    "a": "Noun",
+    "b": "Verb",
+    "c": "Adjective",
+    "d": "Adverb",
+    "answer": "d"
+},
+{
+    "question" : "Identify the ADJECTIVE in the sentence: \"Several stray cats slept under the wooden bench.\"",
+    "a": "slept",
+    "b": "under",
+    "c": "wooden",
+    "d": "bench",
+    "answer": "c"
+},
+{
+    "question" : "Which word is NOT a verb?",
+    "a": "calculate",
+    "b": "sprint",
+    "c": "fragile",
+    "d": "observe",
+    "answer": "c"
+},
+{
+    "question" : "Choose the word that functions as a NOUN in the sentence: \"Daily EXERCISE improves cardiovascular health.\"",
+    "a": "Daily",
+    "b": "exercise",
+    "c": "improves",
+    "d": "cardiovascular",
+    "answer": "b"
+},
+{
+    "question" : "What part of speech is the capitalized word? \"The team celebrated their victory ENTHUSIASTICALLY.\"",
+    "a": "Noun",
+    "b": "Verb",
+    "c": "Adjective",
+    "d": "Adverb",
+    "answer": "d"
+},
+{
+    "question" : "Identify the VERB in the following sentence: \"Dark clouds gathered above the horizon.\"",
+    "a": "Dark",
+    "b": "clouds",
+    "c": "gathered",
+    "d": "horizon",
+    "answer": "c"
+}
+]
